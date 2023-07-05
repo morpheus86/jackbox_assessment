@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "FirstName": "Tidiane",
+      "lastName": "Voiyou",
+      "email": "test@test.com",
+      "password": "$2a$12$sTyLplNLKfU6.o/irL.2t.Pf644TsinEgaUJvZ/rOuzGN.nFWmdDu",
+      "id": "278c5638-8309-4a90-871b-a460af12eefe",
+      "isAdmin": true
+    },
+    {
+      "firstName": "Hamadou",
+      "lastName": "Flame",
+      "password": "$2a$12$bYM07qE0k62nhr/muknnXOnIe9./ailiNa0TLxP2ZSyGVyyAL46v2",
+      "email": "yes@yahoo.com",
+      "isAdmin": false,
+      "id": "81845bde-2e8c-42e8-a9c3-bbeb4b93dca5"
+    },
+    {
+      "firstName": "MARIAM",
+      "lastName": "BARRY",
+      "password": "$2a$12$Suk9uTM7dC7cz4wzW3e23O9H6whaksmB1VKwxN7XTgiSOGtRt5Uii",
+      "email": "ma@mail.com",
+      "isAdmin": false,
+      "id": "bb3f38cb-0878-44bc-ab42-c5c3051a091b"
+    },
+    {
+      "firstName": "Hamadou",
+      "lastName": "Dial",
+      "password": "$2a$12$KKpFUuYwy1AvJXbW4n5aRORGFTimqG7TjvQjtspjQko9Wev1fKvfW",
+      "email": "diallo@yahoo.com",
+      "isAdmin": false,
+      "id": "a4cc4e96-0777-4195-b8bf-43ce8352dcf6"
+    },
+    {
+      "firstName": "kadi",
+      "lastName": "dial",
+      "password": "$2a$12$4OwYT7vfWv3A6cDQSJgzNe.gTw0CqUQkcUTBVSgkDk3WA0iHOloVK",
+      "email": "ka@mail.com",
+      "isAdmin": false,
+      "id": "b57cf336-3d79-40c6-ac04-35e502c3b5a3"
+    },
+    {
+      "firstName": "kadi",
+      "lastName": "diall",
+      "password": "$2a$12$zMNGmxEcD6y9zdq5vzXbFeYcRYTYvx/KAz.jSsyym24iqfhu3222K",
+      "email": "kd@mail.com",
+      "isAdmin": false,
+      "id": "1962d94b-9980-41d5-8d56-cb13ef25a5d8"
+    },
+    {
+      "firstName": "criem",
+      "lastName": "crr",
+      "password": "$2a$12$52eyLw3PPP.i7S5YSx/lgumY6Xn11a7fT5jJOyRt5haJTbTzURvji",
+      "email": "cre@mail.com",
+      "isAdmin": false,
+      "id": "bab78e3d-8c3f-4bff-807d-4f6760626d56"
+    },
+    {
+      "firstName": "frame",
+      "lastName": "fraud",
+      "password": "$2a$12$DN1lzUlx756LUocu4R9eHe949O3h7aJvY/.TF3JzfOy7N.CX4RfFC",
+      "email": "fr@mail.com",
+      "isAdmin": false,
+      "id": "a5659219-7586-4114-af22-c8075dd7ba16"
+    },
+    {
+      "firstName": "Hamadou",
+      "lastName": "Diallo",
+      "password": "$2a$12$zZ.npW1TkkbI8tPdMyXBAe7I0CYjj4KwqFzXf6TSihvBIAjjAsbvC",
+      "email": "hamadou_diallo@yahoo.com",
+      "isAdmin": false,
+      "id": "506b417c-7d3d-42a0-88e7-d10db096a223"
+    }
+
+  ]
+}
