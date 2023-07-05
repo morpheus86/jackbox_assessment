@@ -1,0 +1,22 @@
+.list {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-gap: 10px;
+  margin: 20px auto;
+}
+
+.list_element, .legend {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 1px solid #ccc;
+  grid-gap: 10px;
+  height: 50px;
+  align-items: center;
+  justify-content:space-around;
+  padding: 10px;
+  height: 100px
+}
+li{
+  list-style: none;
+}
+
