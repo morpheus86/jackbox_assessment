@@ -50,7 +50,7 @@ NB:
 
 <!-- Login instructions -->
 ## Admin=> test@test.com, password: aaaaaaa
-## any other user => create a user with at least 6 characters.
+## any other user => create a user with at least 6 characters in the password.
 
 ## Run the backend and the front end simultaneously by running npm install first to install the dependencies, then npm start to start the application (both applications), head to localhost3000,
   - Click on Sign up and if you already created an account click on the bottm to login and enter your informations
